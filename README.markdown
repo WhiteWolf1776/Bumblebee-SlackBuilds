@@ -134,7 +134,7 @@ Slackware based NVIDIA Optimus setup.
     upgradepkg --install-new /tmp/nvidia-kernel-<ver-arch-build>_bbsb.txz
     cd ..  
 ```
-  - Note: This will need rebuilt when you upgrade the kernel.  
+  - Note: This will need to be rebuilt when you upgrade the kernel.  
 
 ###10. Build and install `nvidia-bumblebee` (Optional, not needed if using nouveau):  
 ```
